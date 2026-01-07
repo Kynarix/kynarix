@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:DC143C&height=200&section=header&text=KYNARIX&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=The%20Omnipotent%20Developer&descSize=20&descAlignY=55"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Reverse+Engineer;Security+Researcher;Building+The+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Tool+Developer;Building+The+Future)](https://git.io/typing-svg)
 
 <!-- STATS LINE -->
 <p>
@@ -25,9 +25,9 @@
 ```python
 class Kynarix:
     def __init__(self):
-        self.role = "Full Stack Developer"
+        self.role = "Security Researcher"
         self.languages = ["Python", "JavaScript", "TypeScript", "C++", "Java"]
-        self.focus = ["Web Development", "Reverse Engineering", "Automation"]
+        self.focus = ["Tool Development", "Security Research", "Automation"]
         self.motto = "Code is law."
     
     def current_projects(self):
@@ -55,14 +55,23 @@ class Kynarix:
 ## 📊 Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kynarix&show_icons=true&hide_border=true&bg_color=000000&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&ring_color=DC143C"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kynarix&theme=black-ice&hide_border=true&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&dates=FFFFFF"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kynarix&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kynarix&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kynarix&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynarix&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  </picture>
+</div>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynarix&layout=compact&hide_border=true&bg_color=000000&title_color=DC143C&text_color=FFFFFF"/>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kynarix&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+    <img src="https://streak-stats.demolab.com?user=kynarix&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <!-- DIVIDER -->
@@ -72,16 +81,18 @@ class Kynarix:
 ## 🏆 Achievements
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kynarix&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kynarix&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kynarix&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
+  </picture>
 </div>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kynarix&bg_color=000000&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kynarix&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kynarix&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  </picture>
 </div>
 
 <!-- FOOTER -->
