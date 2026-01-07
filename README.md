@@ -20,7 +20,7 @@
 </div>
 
 <!-- ABOUT -->
-## ⚡ About
+## About
 
 ```python
 class Kynarix:
@@ -35,7 +35,7 @@ class Kynarix:
 ```
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -51,41 +51,9 @@ class Kynarix:
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- STATS -->
-## 📊 Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kynarix&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kynarix&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kynarix&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynarix&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kynarix&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
-    <img src="https://streak-stats.demolab.com?user=kynarix&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
-  </picture>
-</div>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- TROPHIES -->
-## 🏆 Achievements
+## Achievements
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kynarix&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=kynarix&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
-  </picture>
-</div>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
